@@ -1,0 +1,13 @@
+C:\Projects\MontyHall\MontyHall\MontyHall\bin\Debug\netcoreapp3.1\MontyHall.exe
+C:\Projects\MontyHall\MontyHall\MontyHall\bin\Debug\netcoreapp3.1\MontyHall.deps.json
+C:\Projects\MontyHall\MontyHall\MontyHall\bin\Debug\netcoreapp3.1\MontyHall.runtimeconfig.json
+C:\Projects\MontyHall\MontyHall\MontyHall\bin\Debug\netcoreapp3.1\MontyHall.runtimeconfig.dev.json
+C:\Projects\MontyHall\MontyHall\MontyHall\bin\Debug\netcoreapp3.1\MontyHall.dll
+C:\Projects\MontyHall\MontyHall\MontyHall\bin\Debug\netcoreapp3.1\MontyHall.pdb
+C:\Projects\MontyHall\MontyHall\MontyHall\obj\Debug\netcoreapp3.1\MontyHall.csprojAssemblyReference.cache
+C:\Projects\MontyHall\MontyHall\MontyHall\obj\Debug\netcoreapp3.1\MontyHall.csproj.CoreCompileInputs.cache
+C:\Projects\MontyHall\MontyHall\MontyHall\obj\Debug\netcoreapp3.1\MontyHall.AssemblyInfoInputs.cache
+C:\Projects\MontyHall\MontyHall\MontyHall\obj\Debug\netcoreapp3.1\MontyHall.AssemblyInfo.cs
+C:\Projects\MontyHall\MontyHall\MontyHall\obj\Debug\netcoreapp3.1\MontyHall.dll
+C:\Projects\MontyHall\MontyHall\MontyHall\obj\Debug\netcoreapp3.1\MontyHall.pdb
+C:\Projects\MontyHall\MontyHall\MontyHall\obj\Debug\netcoreapp3.1\MontyHall.genruntimeconfig.cache
